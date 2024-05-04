@@ -10,6 +10,8 @@ public class actionctionofamazon {
 	static WebDriver driver;
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
+		
+		// ths the test commeny for github
 
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\senay\\eclipse-workspace\\AutomationSession9th\\trainingsessionforstudentsslenium\\driver\\chromedriver.exe");
     	driver=new ChromeDriver();
